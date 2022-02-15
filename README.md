@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guiurh
 - 👀 I’m interested in learning new programming languages 
-- 🌱 I’m currently learning python, just started 
+- 🌱 I’m currently learning python, just started doing
 - 💞️ I’m looking to collaborate with anyone!
 - 📫 How to reach me guiurh1@gmail.com
 
