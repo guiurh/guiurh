@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guiurh
-- 👀 I’m interested in learning new programming languages 
-- 🌱 I’m currently learning python, just started doing it
-- 💞️ I’m looking to collaborate with anyone!
+- 👀 I’m interested in learning JavaScript
+- 🌱 I’m currently learning Javascript, just started doing it
+- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me guiurh1@gmail.com
 
 <!---
