@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guiurh
-- 👀 I’m interested in learning JavaScript
-- 🌱 I’m currently learning Javascript, just started doing it
+- 👀 I’m interested in learning Python and RPA
+- 🌱 I’m currently learning Python and RPA
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me guiurh1@gmail.com
 
