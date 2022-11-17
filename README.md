@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guiurh
-- 👀 I’m interested in learning Python and RPA
-- 🌱 I’m currently learning Python and RPA
+- 👀 I’m interested in learning Python, RPA, JavaScript, HMTL, CSS, React, React Native
+- 🌱 I’m currently learning Python, RPA
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me guiurh1@gmail.com
 
